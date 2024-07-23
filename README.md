@@ -1,10 +1,10 @@
-Sudip Pahari
-Full Stack Developer
+# Sudip Pahari
+# Full Stack Developer
 📞 +91 8335813738 (India)
 📧 sudippahari@gmail.com
 🔗 GitHub | LinkedIn
 
-Summary
+# Summary
 Full Stack Developer with 4 years of experience in developing high-quality web applications. Proficient in HTML, CSS, TypeScript, and JavaScript, with a strong background in creating custom UI designs and optimizing front-end performance. Skilled in leveraging frameworks such as ReactJS and NodeJS to deliver user-centric solutions. Demonstrates a deep understanding of software development best practices and excels in fast-paced, collaborative environments. Known for delivering functional, well-tested, and maintainable code, ensuring technical compatibility and user satisfaction across diverse projects.
 
 Work Experience
