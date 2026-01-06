@@ -8,16 +8,16 @@
 </p>
 
 ## 🚀 Summary
-Passionate **Senior Software Engineer** with **6 years of experience** delivering exceptional web applications. I leverage expertise in both front-end and back-end development, utilizing frameworks like **ReactJS and NodeJS**, to create powerful and user-centric experiences. I thrive in collaborative environments, ensuring client satisfaction throughout the development life-cycle with exceptional problem-solving skills.
+Passionate **Senior Software Engineer** with **6 years of experience** delivering exceptional web applications. I leverage expertise in both front-end and back-end development, utilizing frameworks like **ReactJS, NodeJS and Java Spring Boot**, to create powerful and user-centric experiences. I thrive in collaborative environments, ensuring client satisfaction throughout the development life-cycle with exceptional problem-solving skills.
 
 ---
 
 ## 🛠 Technical Skills
-* **Programming Languages:** JavaScript, TypeScript, Java, Python, Go (Golang), HTML5, CSS
+* **Programming Languages:** JavaScript, Java, Python, Go(Golang), TypeScript, HTML5, CSS
 * **Frontend:** ReactJS, Vue.js, SPFx, UI/UX, Bootstrap, Material UI, Tailwind CSS, Next.js, Webpack, Babel
 * **Backend:** NodeJS, Nest.js, ExpressJS, RESTful APIs, GraphQL, Microservices, PubSub (Kafka, RabbitMQ)
 * **Databases:** MongoDB, MySQL, PostgreSQL, MSSQL, Redis
-* **Cloud & DevOps:** AWS, Azure, Google Cloud, SAP S/4HANA Integration, CI/CD, Docker, OAuth2, Lambda, Azure Functions
+* **Cloud & DevOps:** AWS, Azure, Google Cloud, SAP S/4HANA Integration, CI/CD, Docker, OAuth2, Lambda, Azure Functions, Jenkins, Kibana
 * **Testing & Tools:** Jest, Cypress, Selenium, Postman, SonarQube, Scrum, Git, Jira
 
 ---
@@ -26,7 +26,7 @@ Passionate **Senior Software Engineer** with **6 years of experience** deliverin
 
 ### **Senior Software Engineer | Emirates National Bank of Dubai (via D4Insight)**
 *Chennai, India | Jul 2025 – Present*
-* Designed and implemented RESTful APIs using NodeJS to enable STP for loan processing and new account opening.
+* Designed and implemented RESTful APIs using NodeJS and SpringBoot to enable STP for loan processing and new account opening for Banking APP.
 * Improved user experiences by 20% and reduced API response time by 15% through code optimization.
 * Implemented CI/CD pipelines and conducted load testing on Kibana to handle a projected 30% user growth.
 
