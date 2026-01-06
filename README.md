@@ -33,14 +33,30 @@ Passionate **Senior Software Engineer** with **6 years of experience** deliverin
 ### **Lead Software Engineer | TECSO CHARGEZONE**
 *Vadodara, India | Apr 2024 – July 2025*
 * Led the development of an EV Charging Management System (CMS), resulting in a 25% reduction in operational downtime.
-* Single-handedly integrated financial transaction data from CMS to **SAP S/4HANA**, improving financial reporting accuracy to 95%.
+* Single-handedly integrated financial transaction data from CMS to **SAP S/4HANA**, improving reporting accuracy to 95%.
 * Implemented CI/CD pipelines and conducted load testing on AWS to ensure application scalability.
 
 ### **Full Stack Developer | MINDSTIX SOFTWARE LABS**
 *Pune, India | Sep 2022 – Apr 2024*
-* Designed and implemented a full-stack platform for home buying/building using ReactJS, NodeJS, MSSQL, and GraphQL.
+* Designed and implemented a full-stack platform using ReactJS, NodeJS, MSSQL, and GraphQL.
 * Facilitated a 20% performance increase by optimizing code and leveraging efficient database queries.
-* Led CI/CD implementation on Azure, guaranteeing stability for a projected 2 million user base.
+* Led CI/CD implementation on Azure, guaranteeing stability for a 2 million user base.
+
+### **Software Engineer | PRODAPT SOLUTIONS PVT LTD**
+*Chennai, India | Feb 2022 – Sep 2022*
+* Leveraged SPFx to design custom web parts, extending SharePoint's functionalities by 30%.
+* Streamlined internal processes using ReactJS and NodeJS, reducing development time by 20%.
+
+### **Junior Software Engineer | RAHUL BUSINESS SERVICES**
+*Ranchi, India | Aug 2020 – Feb 2022*
+* Implemented a comprehensive design system, reducing development time by 60%.
+* Developed a responsive website using ReactJS, resulting in a 30% increase in user engagement.
+* Implemented REST APIs and used MongoDB to reduce data retrieval times by 15%.
+
+### **Web Development Intern | RAHUL BUSINESS SERVICES**
+*Ranchi, India | Dec 2019 – May 2020*
+* Gained hands-on experience with core web technologies including JavaScript, HTML, and CSS.
+* Developed practical skills in crafting user-friendly interfaces and responsive web designs.
 
 ---
 
